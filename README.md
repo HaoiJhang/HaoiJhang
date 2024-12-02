@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HaoiJhang
-- 👀 I’m interested in Algorithmic problems in economic
-- 🌱 I’m currently majored in Bachelor of Economics
-- 💞️ I’m looking to collaborate on Undergraduate research projects, Algorithmic problems
+- - 🌱 I’m currently majored in Bachelor of Economics at Shanghai University of Finance and Economics
+- 👀 I’m interested in Algorithmic problems in economics
 - 📫 How to reach me: HaoiJhang@gmail.com
 
 
